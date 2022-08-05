@@ -571,7 +571,7 @@ Function That Returns The Amount Of Indetifiers.
 
 ### Authors
 
-Fosuhemaa Apenteng and Desmond Dadzie.
+Olajide Igbalaye and Edwin Umana.
 
 ------------
 
