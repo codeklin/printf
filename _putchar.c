@@ -3,18 +3,11 @@
 /**
 * _putchar - prints a character
 * @c: teh character to be printed out
-*Return: 1;
-
+* Return: 1;
 */
 
-
-
 int _putchar(char c)
-
 {
-
-write(1, &c, 1);
-
-return (1);
-
+	write(1, &c, 1);
+	return (1);
 }
