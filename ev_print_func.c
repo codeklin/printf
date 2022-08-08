@@ -59,3 +59,5 @@ index = first_index;
 }
 
 }
+return (j);
+}

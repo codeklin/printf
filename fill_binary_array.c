@@ -39,3 +39,5 @@ binary[i] = '1';
 else
 binary[i] = '0';
 }
+return (binary);
+}
