@@ -116,7 +116,7 @@ Using flags and length tags:
 
 ### _printf.c
 
-Own Printf Function Tha Performs Formatted Output Conversion And Print Data.
+Own Printf Function That Performs Formatted Output Conversion And Print Data.
 
 
 
