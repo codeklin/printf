@@ -107,8 +107,7 @@ The character \fI%\fR is followed by zero the following flags:
 
 #include ''main.h''
 
-int main(void)
-
+/*main: funtion to print main*/ int main(void)
 {
 
 int length;
